@@ -1,0 +1,13 @@
+[project]
+name = "song-and-city"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+dependencies = [
+    "folium>=0.20.0",
+    "fsspec>=2026.2.0",
+    "geonamescache>=3.0.0",
+    "huggingface-hub>=1.4.1",
+    "nltk>=3.9.3",
+    "pandas>=3.0.1",
+]
