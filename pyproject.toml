@@ -10,4 +10,5 @@ dependencies = [
     "huggingface-hub>=1.4.1",
     "nltk>=3.9.3",
     "pandas>=3.0.1",
+    "seaborn>=0.13.2",
 ]
